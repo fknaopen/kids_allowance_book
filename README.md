@@ -8,4 +8,4 @@ kids_allowance_book.numbers はMacOSXのnumbersアプリで使えます.
   内容は子供向けのお小遣い帳です.
   
 ##screenshot
-![screenshot](./screenshot.png)
+![screenshot](screenshot.png)
