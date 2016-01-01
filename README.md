@@ -1,9 +1,9 @@
 # kids_allowance_book
-allowance book for kids'. ( .numbers file )
+allowance book for kids. ( .numbers file )
 
 kids_allowance_book.numbers can open at MacOSX numbers app.
   
-This content purpose is allowance book for kids'.
+This content purpose is allowance book for kids.
 
 kids_allowance_book.numbers はMacOSXのnumbersアプリで使えます.
   
